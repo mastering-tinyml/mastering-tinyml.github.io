@@ -1,2 +1,3 @@
-# mastering-tinyml.github.io
-Website
+# Mastering TinyML
+
+Coming soon ...
