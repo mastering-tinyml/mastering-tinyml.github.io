@@ -5,7 +5,7 @@ Collection of TinyML examples for popular MCU boards on popular frameworks ([rep
 Coming soon ...
 
 ## Boards
-* Seeedtudio Wio Terminal
+* Seeedstudio Wio Terminal
 * Arduino Nicla Sense
 * Arduino Nicla Vision
 * Espressif ESP32 Eye
