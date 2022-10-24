@@ -12,6 +12,7 @@ Coming soon ...
 * Arduino Nicla Vision
 * Espressif ESP32 Eye
 * Espressif ESP32 Cam
+* M5Stack ESP32 PSRAM Timer Camera X (OV3660)
 * Seeed Sipeed MAix Bit
 * ST B-L475E-IOT01A
 * ST STM32F413H-Discovery
