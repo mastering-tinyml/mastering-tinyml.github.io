@@ -2,6 +2,8 @@
 
 Collection of TinyML examples for popular MCU boards on popular frameworks ([repositories](https://github.com/orgs/mastering-tinyml/repositories)).
 
+Tiny Machine Learning (TinyML) is a subdomain of machine learning (ML) for low-end (less than 1 USD) and low-power (mW range) processors (MCU, DSP) constrainted by CPU, SRAM and FlashRAM and running on batteries. Applications are predictive maintenance, wake word, behavior detection ... More details on [TinyML.org](https://www.tinyml.org/about/).
+
 Coming soon ...
 
 ## Boards
