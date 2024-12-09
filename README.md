@@ -17,14 +17,14 @@ Coming soon ...
 * [ST STM32F413H-Discovery](https://www.st.com/en/evaluation-tools/32f413hdiscovery.html)
 * [ST STM32F769I-Discovery](https://www.st.com/en/evaluation-tools/32f769idiscovery.html)
 * [Seeedstudio Wio Lite AI](https://www.seeedstudio.com/Wio-Lite-AI-p-5119.html)
-* Discovery STM32N6570-DK + B-CAMS-IMX (coming soon)
-* Nucleo-144 NUCLEO-N657X0-Q + B-CAMS-IMX (coming soon)
+* Discovery STM32N6570-DK (Cortex M55) + [B-CAMS-IMX](https://www.st.com/en/evaluation-tools/b-cams-imx.html) (coming soon)
+* Nucleo-144 NUCLEO-N657X0-Q (Cortex M55) + [B-CAMS-IMX](https://www.st.com/en/evaluation-tools/b-cams-imx.html) (coming soon)
 
 ### Espressif
 
 * Espressif ESP32 Eye
 * Espressif ESP32 Cam
-* Espressif ESP32-S3
+* Espressif ESP32-S3 (ESP NN)
 * TTGO-TBEAM-SUPREME-868-H661-2823	TTGO T-BEAM SUPREME SX1262 Meshtastic 868 MHz Lora WiFi BT5 GPS
 * TTGO-TBEAM-SUPREME-433-H664-2825	LILYGO T-BEAM SUPREME SX1262 433 MHz Meshtastic LoRa WiFi BT5 GPS
 * M5Stack ESP32 PSRAM Timer Camera X (OV3660)
